@@ -1,4 +1,6 @@
 flask
 librosa
-soundfile
 numpy
+scipy
+soundfile
+pydub
